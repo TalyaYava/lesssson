@@ -2,7 +2,7 @@ def main():
     print('My first git program')
     print('And I change it every day')
     print('repeat')
-    print('peace and quite')
+    print('war, welcome')
 
 
 if __name__ == '__main__':
